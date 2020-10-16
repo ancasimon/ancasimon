@@ -2,7 +2,9 @@
 
 #### I'm a software developer who is passionate about ensuring applications solve users’ problems and bring value. 
 
-###### 💻   Ever since I started working in the software industry, I have wanted to be a more instrumental part of the development process. A few years ago, I transitioned from a technical writer into a business analyst role. Then, in January 2020, I was excited to make the commitment to complete the *[Nashville Software School Web Developer Bootcamp](http://nashvillesoftwareschool.com/)*. It turned out to be the best decision I made in a year otherwise full of surprises!
+[ ](https://lh3.googleusercontent.com/pw/ACtC-3dp8RIz1eQB6cwjD0YTSPXiHGtGFItFE-eCIK5aHcCQm-tG5-K_-GOto_fapl-4qd16fTSYUrQqJkklQYzBbq_pwqMlbHd-fFVVGendiFbouKXeYRrz5yKnIo66Q_q_HySVg4fS0pNWj3tebFDZajRL=w640-h426-no?authuser=0)
+
+###### Ever since I started working in the software industry, I have wanted to be a more instrumental part of the development process. A few years ago, I transitioned from a technical writer into a business analyst role. Then, in January 2020, I was excited to make the commitment to complete the *[Nashville Software School Web Developer Bootcamp](http://nashvillesoftwareschool.com/)*. It turned out to be the best decision I made in a year otherwise full of surprises!
 
 ###### 💁🏻‍♀️  In addition to my technical skills, I bring a wide variety of soft skills and business experience to the table. As a former liberal arts major, I have strong communication skills that have served me well throughout my professional career. As a technical writer, I ensured user adoption of new features by translating “dev speak” into meaningful documentation. As a business analyst, I collaborated with all roles to ensure our products, our teams, and our customers were successful.
 
