@@ -9,7 +9,7 @@
 * As a technical writer, I ensured user adoption of new features by translating “dev speak” into meaningful workflow documentation that helped users be successful.
 * As a business analyst, I worked with all the roles in the company - from development to marketing and sales and customer support  - and provided the information they needed to support our customers effectively.
 
- 🎯   I recognize that the arc that starts in software development stretches through customer support and sales into the user’s routines and that a better understanding of this continuum makes for more effective and impactful software. 
+ 🎯   I recognize that the arc that starts with the backend developer and the UI team stretches through customer support and sales into the user’s routines and that a better understanding of this continuum makes for more effective and impactful software. 
 
 <!--
 **ancasimon/ancasimon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
