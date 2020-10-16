@@ -1,6 +1,6 @@
 ### Hi there, I'm Anca 👋
 
-I'm a software developer who is passionate about ensuring applications solve users’ problems. 
+I'm a software developer who cares about ensuring applications solve users’ problems and bring value. 
 
 
 Ever since I started working in the software industry, I have wanted to be a more instrumental part of the development process. A few years ago, I transitioned from a technical writer into a business analyst role, and then this year, I was excited to make the commitment to complete the Nashville Software School Web Developer bootcamp. 
