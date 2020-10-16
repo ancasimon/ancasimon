@@ -1,7 +1,7 @@
 ### Hi there, I'm Anca 👋
 
 #### *I'm a software developer who is passionate about ensuring applications solve users’ problems and bring value.* 
-###### Find me on ![LinkedIn](https://www.linkedin.com/in/anca-simon/) and check out my portfolio ![here](https://asimonbio.firebaseapp.com/).
+###### Find me on [LinkedIn](https://www.linkedin.com/in/anca-simon/) and check out my portfolio [here](https://asimonbio.firebaseapp.com/).
 
 #####   💻 The ability to help solve big - and small - problems is what has drawn me to the software development role. A few years ago, I transitioned from a technical writer into a business analyst role. Then, in January 2020, I was excited to make the commitment to complete the *[Nashville Software School Web Developer Bootcamp](http://nashvillesoftwareschool.com/)*. It turned out to be the best decision I made - in a year otherwise full of surprises!
 ##### 💁🏻‍♀️  In addition to my technical skills, I bring a wide variety of soft skills and business experience to the table. As a former liberal arts major, I have strong communication skills that have served me well throughout my professional career. As a technical writer, I ensured user adoption of new features by translating “dev speak” into meaningful documentation. As a business analyst, I collaborated with all roles to ensure our products, our teams, and our customers were successful.
