@@ -9,8 +9,8 @@
 
 
 #### Latest Projects
-###### Full-stack NSS group project (C#, ASP .Net Core, SQL, & React frontend): The most amazing e-commerce site for gifts: [Wildflower Coffee Gifts!](https://github.com/nss-evening-cohort-11/WildflowerCoffeeGifts) (I mean, :bouquet: and :coffee:! Need I say more?!)
-###### <img src="https://hacktoberfest.digitalocean.com/assets/HF-full-logo-b05d5eb32b3f3ecc9b2240526104cf4da3187b8b61963dd9042fdc2536e4a76c.svg" alst="Hacktoberfest logo" width="150" />
+###### November 2020: Full-stack NSS group project (C#, ASP .Net Core, SQL, & React frontend) - what will undoubtedly be the most amazing e-commerce site for gifts: [Wildflower Coffee Gifts!](https://github.com/nss-evening-cohort-11/WildflowerCoffeeGifts) (I mean, :bouquet: and :coffee:! Need I say more?!)
+###### October 2020: <img src="https://hacktoberfest.digitalocean.com/assets/HF-full-logo-b05d5eb32b3f3ecc9b2240526104cf4da3187b8b61963dd9042fdc2536e4a76c.svg" alst="Hacktoberfest logo" width="150" />
 
 
 
