@@ -9,7 +9,7 @@
 
 
 #### Latest Projects
-* ###### November 2020: Full-stack NSS group project (C#, ASP .Net Core, SQL, & React frontend) - undoubtedly be the most amazing e-commerce site: [Wildflower Coffee Gifts!](https://github.com/nss-evening-cohort-11/WildflowerCoffeeGifts) (I mean, :bouquet: and :coffee:! Need I say more?!)
+* ###### November 2020: Full-stack NSS group project (C#, ASP .Net Core, SQL, & React frontend) - undoubtedly, the most amazing e-commerce site: [Wildflower Coffee Gifts!](https://github.com/nss-evening-cohort-11/WildflowerCoffeeGifts) (I mean, :bouquet: and :coffee:! Need I say more?!)
 * ###### October 2020: <img src="https://hacktoberfest.digitalocean.com/assets/HF-full-logo-b05d5eb32b3f3ecc9b2240526104cf4da3187b8b61963dd9042fdc2536e4a76c.svg" alst="Hacktoberfest logo" width="150" />
 * ###### Summer 2020: [GearUp!](https://github.com/ancasimon/front-end-capstone), my frontend capstone project - take a quick look, and you will be able to tell I was so excited to work on this project! 
 
