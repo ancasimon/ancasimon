@@ -9,8 +9,7 @@
 
 
 #### Latest Projects
-* ###### Coming soon (December 2020): My final capstone project at the Nashville Software School!
-* ###### November 2020: Full-stack NSS group project (C#, ASP .Net Core, SQL, & React frontend) - undoubtedly, the most amazing e-commerce site: [Wildflower Coffee Gifts!](https://github.com/nss-evening-cohort-11/WildflowerCoffeeGifts) (I mean, :bouquet: and :coffee:! Need I say more?!)
+* ###### Right now: My final capstone project at the Nashville Software School: [Unlimited](https://github.com/ancasimon/backend-capstone) - A full-stack CRUD application built with C#, ASP .NET Core MVC, SQL database, HTTP-based APIs, and a single-page React application with Firebase authentication and deployed with Azure! A one-stop shop where parents of young budding musicians can create custom practice plans, browse games from the database, filter them based on their child's age and instrument, and track progress! It will make them want to practice!
 * ###### October 2020: <img src="https://hacktoberfest.digitalocean.com/assets/HF-full-logo-b05d5eb32b3f3ecc9b2240526104cf4da3187b8b61963dd9042fdc2536e4a76c.svg" alst="Hacktoberfest logo" width="150" />
 * ###### Summer 2020: [GearUp!](https://github.com/ancasimon/front-end-capstone), my frontend capstone project - take a quick look, and you will be able to tell I was so excited to work on this project! 
 
